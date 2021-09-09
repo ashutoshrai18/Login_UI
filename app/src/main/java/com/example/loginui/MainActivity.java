@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 }else
                 {
                     Intent intent = new Intent(MainActivity.this,OtpActivity.class);
+                    intent.putExtra("mobile_no",dd);
                     startActivity(intent);
                 }
             }
