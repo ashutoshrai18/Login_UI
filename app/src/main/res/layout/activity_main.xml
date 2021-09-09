@@ -47,7 +47,7 @@
 
     <com.example.loginui.PrefixEditText
         android:layout_marginTop="10dp"
-        android:id="@+id/et_mobile_no."
+        android:id="@+id/edt_mobile_no"
         android:layout_marginLeft="75dp"
         android:layout_marginRight="75dp"
         android:layout_width="match_parent"
@@ -67,6 +67,7 @@
         android:layout_marginLeft="55dp"
         android:layout_height="1dp"/>
     <Button
+        android:id="@+id/btn_send_otp"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

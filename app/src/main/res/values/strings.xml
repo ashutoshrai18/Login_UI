@@ -3,4 +3,7 @@
     <string name="stylish_text">
         We will send you an <b>One Time Password</b> \n on this mobile number
     </string>
+    <string name="number_text">
+        Enter the OTP sent to
+    </string>
 </resources>
